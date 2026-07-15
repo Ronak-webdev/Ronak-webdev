@@ -34,12 +34,12 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🌍 **One World AI** | AI-powered platform for cross-domain intelligent workflows | React · Node.js · AI/ML |
-| 📄 **FillFlow** | Smart automated form-filling & data workflow tool | React · FastAPI |
-| 🚔 **CopTrack (ROMS)** | Full-stack repeat-offender monitoring platform for law enforcement | React · React Native · Supabase |
-| 🧩 **Multi AI Platform** | Unified interface to chat with multiple LLMs | React · Node.js · OpenRouter |
-| ✍️ **Gujarati Text Recognition** | Deep learning model for Gujarati script/numeral recognition | PyTorch · CBAM Attention |
-| 🌿 **Plant Care AI** | Computer vision app for plant health diagnosis | Python · CNN · React |
+| 🌍 **One World AI** | AI-powered platform for cross-domain intelligent workflows | ![React](https://img.shields.io/badge/-React-8B5CF6?style=flat-square&logo=react&logoColor=white) ![Node](https://img.shields.io/badge/-Node.js-8B5CF6?style=flat-square&logo=node.js&logoColor=white) ![AI](https://img.shields.io/badge/-AI%2FML-8B5CF6?style=flat-square) |
+| 📄 **FillFlow** | Smart automated form-filling & data workflow tool | ![React](https://img.shields.io/badge/-React-8B5CF6?style=flat-square&logo=react&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-8B5CF6?style=flat-square&logo=fastapi&logoColor=white) |
+| 🚔 **CopTrack (ROMS)** | Full-stack repeat-offender monitoring platform for law enforcement | ![React](https://img.shields.io/badge/-React-8B5CF6?style=flat-square&logo=react&logoColor=white) ![ReactNative](https://img.shields.io/badge/-React%20Native-8B5CF6?style=flat-square&logo=react&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-8B5CF6?style=flat-square&logo=supabase&logoColor=white) |
+| 🧩 **Multi AI Platform** | Unified interface to chat with multiple LLMs | ![React](https://img.shields.io/badge/-React-8B5CF6?style=flat-square&logo=react&logoColor=white) ![Node](https://img.shields.io/badge/-Node.js-8B5CF6?style=flat-square&logo=node.js&logoColor=white) ![OpenRouter](https://img.shields.io/badge/-OpenRouter-8B5CF6?style=flat-square) |
+| ✍️ **Gujarati Text Recognition** | Deep learning model for Gujarati script/numeral recognition | ![PyTorch](https://img.shields.io/badge/-PyTorch-8B5CF6?style=flat-square&logo=pytorch&logoColor=white) ![CBAM](https://img.shields.io/badge/-CBAM%20Attention-8B5CF6?style=flat-square) |
+| 🌿 **Plant Care AI** | Computer vision app for plant health diagnosis | ![Python](https://img.shields.io/badge/-Python-8B5CF6?style=flat-square&logo=python&logoColor=white) ![CNN](https://img.shields.io/badge/-CNN-8B5CF6?style=flat-square) ![React](https://img.shields.io/badge/-React-8B5CF6?style=flat-square&logo=react&logoColor=white) |
 
 </div>
 
@@ -77,10 +77,22 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ronak-webdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&text_color=c9d1d9&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak-webdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ronak-webdev&show_icons=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&count_private=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ronak-webdev&show_icons=true&hide_border=true&border_radius=12&bg_color=FFFFFF&title_color=7C3AED&icon_color=8B5CF6&text_color=24292E&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ronak-webdev&show_icons=true&hide_border=true&border_radius=12&bg_color=FFFFFF&title_color=7C3AED&icon_color=8B5CF6&text_color=24292E&count_private=true" alt="GitHub Stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak-webdev&layout=compact&hide_border=true&border_radius=12&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak-webdev&layout=compact&hide_border=true&border_radius=12&bg_color=FFFFFF&title_color=7C3AED&text_color=24292E"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak-webdev&layout=compact&hide_border=true&border_radius=12&bg_color=FFFFFF&title_color=7C3AED&text_color=24292E" alt="Top Languages"/>
+</picture>
 
-<img src="https://streak-stats.demolab.com/?user=Ronak-webdev&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Ronak-webdev&hide_border=true&border_radius=12&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Ronak-webdev&hide_border=true&border_radius=12&background=FFFFFF&ring=7C3AED&fire=8B5CF6&currStreakLabel=7C3AED&sideLabels=24292E&currStreakNum=111111&sideNums=24292E&dates=6A737D&border=E1E4E8"/>
+  <img src="https://streak-stats.demolab.com/?user=Ronak-webdev&hide_border=true&border_radius=12&background=FFFFFF&ring=7C3AED&fire=8B5CF6&currStreakLabel=7C3AED&sideLabels=24292E&currStreakNum=111111&sideNums=24292E&dates=6A737D&border=E1E4E8" alt="GitHub Streak"/>
+</picture>
 
 </div>
 
@@ -90,7 +102,11 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+</picture>
 
 </div>
 
