@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=230&section=header&text=Hey%20There,%20I'm%20Ronak%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20•%20Computer%20Vision%20•%20GenAI%20•%20Full%20Stack%20Developer&descAlignY=54&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,50:8E2DE2,100:A855F7&height=230&section=header&text=Hey%20There,%20I'm%20Ronak%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20•%20Computer%20Vision%20•%20GenAI%20•%20Full%20Stack%20Developer&descAlignY=54&descSize=17" width="100%"/>
 
 <p>
 <a href="https://linkedin.com/in/ronak-prajapati-42776b369/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -13,11 +13,13 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&color=8E2DE2&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications+%F0%9F%A4%96;Training+models+on+RTX+3070+Ti+%F0%9F%94%A5;Computer+Vision+%7C+GenAI+%7C+Full+Stack;Turning+ideas+into+real-world+products+%F0%9F%9A%80" alt="Typing SVG"/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:A855F7&height=3&animation=twinkle" width="100%"/>
+
 </div>
 
 <br/>
 
-## 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=70&section=header&text=🚀%20About%20Me&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
 
 - 🎓 Final-year **B.Tech CSE** student, graduating 2027 — CGPA 8.04
 - 🤖 Building at the intersection of **AI/ML, Computer Vision & GenAI**
@@ -28,7 +30,7 @@
 
 <br/>
 
-## ⚡ Featured Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=70&section=header&text=⚡%20Featured%20Projects&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
@@ -45,7 +47,9 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=70&section=header&text=🛠️%20Tech%20Stack&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
+
+<div align="center">
 
 **Languages**
 <br/>
@@ -71,46 +75,76 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,postman,notion,npm,figma,linux,arduino&theme=dark"/>
 
+</div>
+
 <br/>
 
-## 📊 GitHub Analytics
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=70&section=header&text=📊%20GitHub%20Analytics&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ronak-webdev&show_icons=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&count_private=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Ronak-webdev&show_icons=true&hide_border=true&border_radius=12&bg_color=FFFFFF&title_color=7C3AED&icon_color=8B5CF6&text_color=24292E&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ronak-webdev&show_icons=true&hide_border=true&border_radius=12&bg_color=FFFFFF&title_color=7C3AED&icon_color=8B5CF6&text_color=24292E&count_private=true" alt="GitHub Stats"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/stats-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/stats-light.svg"/>
+  <img height="165em" src="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/stats-light.svg" alt="GitHub Stats"/>
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak-webdev&layout=compact&hide_border=true&border_radius=12&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak-webdev&layout=compact&hide_border=true&border_radius=12&bg_color=FFFFFF&title_color=7C3AED&text_color=24292E"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak-webdev&layout=compact&hide_border=true&border_radius=12&bg_color=FFFFFF&title_color=7C3AED&text_color=24292E" alt="Top Languages"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/langs-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/langs-light.svg"/>
+  <img height="165em" src="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/langs-light.svg" alt="Top Languages"/>
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Ronak-webdev&hide_border=true&border_radius=12&background=0D1117&ring=A855F7&fire=8B5CF6&currStreakLabel=A855F7&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Ronak-webdev&hide_border=true&border_radius=12&background=FFFFFF&ring=7C3AED&fire=8B5CF6&currStreakLabel=7C3AED&sideLabels=24292E&currStreakNum=111111&sideNums=24292E&dates=6A737D&border=E1E4E8"/>
-  <img src="https://streak-stats.demolab.com/?user=Ronak-webdev&hide_border=true&border_radius=12&background=FFFFFF&ring=7C3AED&fire=8B5CF6&currStreakLabel=7C3AED&sideLabels=24292E&currStreakNum=111111&sideNums=24292E&dates=6A737D&border=E1E4E8" alt="GitHub Streak"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/streak-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/streak-light.svg"/>
+  <img src="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/streak-light.svg" alt="GitHub Streak"/>
+</picture>
+
+</div>
+
+> ⚙️ These cards are auto-generated & cached by the GitHub Action (`profile-assets.yml`) every 6 hours instead of hot-linking a live third-party server — this is what fixes the "not showing" issue for good.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=70&section=header&text=📈%20Contribution%20Activity&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/activity-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/activity-light.svg"/>
+  <img src="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/activity-light.svg" alt="Contribution Activity Graph" width="100%"/>
 </picture>
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=70&section=header&text=🧊%203D%20Contribution%20Calendar&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/github-contribution-grid-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output-3d-contrib/profile-night-rainbow.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output-3d-contrib/profile-season-animate.svg"/>
+  <img src="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output-3d-contrib/profile-season-animate.svg" alt="3D Contribution Calendar" width="100%"/>
 </picture>
 
 </div>
 
-> ⚙️ This animates automatically once the GitHub Action (included separately) runs on your profile repo — see setup note below.
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4A00E0,100:8E2DE2&height=70&section=header&text=🐍%20Contribution%20Snake&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=60" width="100%"/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Ronak-webdev/Ronak-webdev/output/snake.svg" alt="snake animation" width="100%"/>
+</picture>
+
+</div>
 
 <br/>
 
@@ -118,6 +152,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ronak-webdev&color=8E2DE2&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:8E2DE2,100:4A00E0&height=120&section=footer"/>
 
 </div>
