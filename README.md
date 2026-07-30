@@ -77,10 +77,10 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ronak-webdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&icon_color=4A00E0&text_color=c9d1d9&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak-webdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8E2DE2&text_color=c9d1d9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ronak-webdev&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronak-webdev&layout=compact&theme=default&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com/?user=Ronak-webdev&theme=tokyonight&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2"/>
+<img src="https://streak-stats.demolab.com/?user=Ronak-webdev&theme=default&hide_border=true&currStreakLabel=4A00E0&fire=8E2DE2"/>
 
 </div>
 
@@ -94,7 +94,7 @@
 
 </div>
 
-> ⚙️ This animates automatically once the GitHub Action (included separately) runs on your profile repo — see setup note below.
+> ⚙️ This animates automatically via GitHub Actions — updates on every push and daily at midnight UTC. Workflow file: `.github/workflows/snake.yml` (below).
 
 <br/>
 
